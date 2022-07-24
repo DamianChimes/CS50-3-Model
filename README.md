@@ -1,11 +1,17 @@
 # CS50-3-Model
 
 Damian Chimes - dchi4033@uni.sydney.edu.au
+
 Siyao Jiang - sjia4014@uni.sydney.edu.au
+
 Qingyi Li - qili5278@uni.sydney.edu.au
+
 Chenhui Lyu - clyu7944@uni.sydney.edu.au
+
 Jerry Wang - jwan7597@uni.sydney.edu.au
+
 Angie Zhang - yzha4981@uni.sydney.edu.au
+
 
 COVIDx Dataset - https://www.kaggle.com/datasets/andyczhao/covidx-cxr2
 
@@ -23,7 +29,11 @@ preprocess and convert images into NumPy files for faster load time.
 
 ## Package Depencencies:
 • NumPy 1.20.2
+
 • Pandas 1.2.4
+
 • Pillow 8.2.0
+
 • Scikit-Learn 1.0.2
+
 • TensorFlow 2.8.0, with GPU support
